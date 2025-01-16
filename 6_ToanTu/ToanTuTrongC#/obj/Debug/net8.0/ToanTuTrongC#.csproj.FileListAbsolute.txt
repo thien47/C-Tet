@@ -1,0 +1,14 @@
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\bin\Debug\net8.0\ToanTuTrongC#.exe
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\bin\Debug\net8.0\ToanTuTrongC#.deps.json
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\bin\Debug\net8.0\ToanTuTrongC#.runtimeconfig.json
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\bin\Debug\net8.0\ToanTuTrongC#.dll
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\bin\Debug\net8.0\ToanTuTrongC#.pdb
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\obj\Debug\net8.0\ToanTuTrongC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\obj\Debug\net8.0\ToanTuTrongC#.AssemblyInfoInputs.cache
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\obj\Debug\net8.0\ToanTuTrongC#.AssemblyInfo.cs
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\obj\Debug\net8.0\ToanTuTrongC#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\obj\Debug\net8.0\ToanTuTrongC#.dll
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\obj\Debug\net8.0\refint\ToanTuTrongC#.dll
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\obj\Debug\net8.0\ToanTuTrongC#.pdb
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\obj\Debug\net8.0\ToanTuTrongC#.genruntimeconfig.cache
+C:\Users\admin\Source\C#Tet\ToanTuTrongC#\ToanTuTrongC#\obj\Debug\net8.0\ref\ToanTuTrongC#.dll
