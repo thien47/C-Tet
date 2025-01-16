@@ -1,0 +1,14 @@
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\bin\Debug\net8.0\3_NhapXuatCoBan.exe
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\bin\Debug\net8.0\3_NhapXuatCoBan.deps.json
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\bin\Debug\net8.0\3_NhapXuatCoBan.runtimeconfig.json
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\bin\Debug\net8.0\3_NhapXuatCoBan.dll
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\bin\Debug\net8.0\3_NhapXuatCoBan.pdb
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\obj\Debug\net8.0\3_NhapXuatCoBan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\obj\Debug\net8.0\3_NhapXuatCoBan.AssemblyInfoInputs.cache
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\obj\Debug\net8.0\3_NhapXuatCoBan.AssemblyInfo.cs
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\obj\Debug\net8.0\3_NhapXuatCoBan.csproj.CoreCompileInputs.cache
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\obj\Debug\net8.0\3_NhapXuatCoBan.dll
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\obj\Debug\net8.0\refint\3_NhapXuatCoBan.dll
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\obj\Debug\net8.0\3_NhapXuatCoBan.pdb
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\obj\Debug\net8.0\3_NhapXuatCoBan.genruntimeconfig.cache
+C:\Users\admin\C#Tet\3_NhapXuatCoBan\3_NhapXuatCoBan\3_NhapXuatCoBan\obj\Debug\net8.0\ref\3_NhapXuatCoBan.dll
