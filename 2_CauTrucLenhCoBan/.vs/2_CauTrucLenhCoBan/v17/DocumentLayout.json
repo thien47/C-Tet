@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\C#Tet\\2_CauTrucLenhCoBan\\2_CauTrucLenhCoBan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DE9381-A0D3-4AFA-988F-9A012BF55BB0}|2_CauTrucLenhCoBan\\2_CauTrucLenhCoBan.csproj|c:\\users\\admin\\c#tet\\2_cautruclenhcoban\\2_cautruclenhcoban\\2_cautruclenhcoban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DE9381-A0D3-4AFA-988F-9A012BF55BB0}|2_CauTrucLenhCoBan\\2_CauTrucLenhCoBan.csproj|solutionrelative:2_cautruclenhcoban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\C#Tet\\2_CauTrucLenhCoBan\\2_CauTrucLenhCoBan\\2_CauTrucLenhCoBan\\Program.cs",
+              "RelativeDocumentMoniker": "2_CauTrucLenhCoBan\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\C#Tet\\2_CauTrucLenhCoBan\\2_CauTrucLenhCoBan\\2_CauTrucLenhCoBan\\Program.cs",
+              "RelativeToolTip": "2_CauTrucLenhCoBan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:01:51.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
