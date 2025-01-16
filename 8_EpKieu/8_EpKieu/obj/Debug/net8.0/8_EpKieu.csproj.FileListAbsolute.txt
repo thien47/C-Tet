@@ -1,0 +1,14 @@
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\bin\Debug\net8.0\8_EpKieu.exe
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\bin\Debug\net8.0\8_EpKieu.deps.json
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\bin\Debug\net8.0\8_EpKieu.runtimeconfig.json
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\bin\Debug\net8.0\8_EpKieu.dll
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\bin\Debug\net8.0\8_EpKieu.pdb
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\obj\Debug\net8.0\8_EpKieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\obj\Debug\net8.0\8_EpKieu.AssemblyInfoInputs.cache
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\obj\Debug\net8.0\8_EpKieu.AssemblyInfo.cs
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\obj\Debug\net8.0\8_EpKieu.csproj.CoreCompileInputs.cache
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\obj\Debug\net8.0\8_EpKieu.dll
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\obj\Debug\net8.0\refint\8_EpKieu.dll
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\obj\Debug\net8.0\8_EpKieu.pdb
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\obj\Debug\net8.0\8_EpKieu.genruntimeconfig.cache
+C:\Users\admin\C#Tet\8_EpKieu\8_EpKieu\8_EpKieu\obj\Debug\net8.0\ref\8_EpKieu.dll
