@@ -1,0 +1,14 @@
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\obj\Debug\net8.0\7_Hang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\obj\Debug\net8.0\7_Hang.AssemblyInfoInputs.cache
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\obj\Debug\net8.0\7_Hang.AssemblyInfo.cs
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\obj\Debug\net8.0\7_Hang.csproj.CoreCompileInputs.cache
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\bin\Debug\net8.0\7_Hang.exe
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\bin\Debug\net8.0\7_Hang.deps.json
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\bin\Debug\net8.0\7_Hang.runtimeconfig.json
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\bin\Debug\net8.0\7_Hang.dll
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\bin\Debug\net8.0\7_Hang.pdb
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\obj\Debug\net8.0\7_Hang.dll
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\obj\Debug\net8.0\refint\7_Hang.dll
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\obj\Debug\net8.0\7_Hang.pdb
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\obj\Debug\net8.0\7_Hang.genruntimeconfig.cache
+C:\Users\admin\C#Tet\7_Hang\7_Hang\7_Hang\obj\Debug\net8.0\ref\7_Hang.dll
