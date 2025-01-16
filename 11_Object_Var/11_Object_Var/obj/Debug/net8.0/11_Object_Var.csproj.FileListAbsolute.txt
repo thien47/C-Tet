@@ -1,0 +1,14 @@
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\bin\Debug\net8.0\11_Object_Var.exe
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\bin\Debug\net8.0\11_Object_Var.deps.json
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\bin\Debug\net8.0\11_Object_Var.runtimeconfig.json
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\bin\Debug\net8.0\11_Object_Var.dll
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\bin\Debug\net8.0\11_Object_Var.pdb
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\obj\Debug\net8.0\11_Object_Var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\obj\Debug\net8.0\11_Object_Var.AssemblyInfoInputs.cache
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\obj\Debug\net8.0\11_Object_Var.AssemblyInfo.cs
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\obj\Debug\net8.0\11_Object_Var.csproj.CoreCompileInputs.cache
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\obj\Debug\net8.0\11_Object_Var.dll
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\obj\Debug\net8.0\refint\11_Object_Var.dll
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\obj\Debug\net8.0\11_Object_Var.pdb
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\obj\Debug\net8.0\11_Object_Var.genruntimeconfig.cache
+C:\Users\admin\C#Tet1\11_Object_Var\11_Object_Var\obj\Debug\net8.0\ref\11_Object_Var.dll
