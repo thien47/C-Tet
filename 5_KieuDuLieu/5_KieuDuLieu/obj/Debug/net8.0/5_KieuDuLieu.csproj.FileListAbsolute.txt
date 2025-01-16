@@ -1,0 +1,14 @@
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\obj\Debug\net8.0\5_KieuDuLieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\obj\Debug\net8.0\5_KieuDuLieu.AssemblyInfoInputs.cache
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\obj\Debug\net8.0\5_KieuDuLieu.AssemblyInfo.cs
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\obj\Debug\net8.0\5_KieuDuLieu.csproj.CoreCompileInputs.cache
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\bin\Debug\net8.0\5_KieuDuLieu.exe
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\bin\Debug\net8.0\5_KieuDuLieu.deps.json
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\bin\Debug\net8.0\5_KieuDuLieu.runtimeconfig.json
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\bin\Debug\net8.0\5_KieuDuLieu.dll
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\bin\Debug\net8.0\5_KieuDuLieu.pdb
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\obj\Debug\net8.0\5_KieuDuLieu.dll
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\obj\Debug\net8.0\refint\5_KieuDuLieu.dll
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\obj\Debug\net8.0\5_KieuDuLieu.pdb
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\obj\Debug\net8.0\5_KieuDuLieu.genruntimeconfig.cache
+C:\Users\admin\C#Tet\5_KieuDuLieu\5_KieuDuLieu\5_KieuDuLieu\obj\Debug\net8.0\ref\5_KieuDuLieu.dll

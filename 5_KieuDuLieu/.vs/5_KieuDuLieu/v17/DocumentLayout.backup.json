@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\C#Tet\\5_KieuDuLieu\\5_KieuDuLieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{773E89DA-24A3-42D4-9A81-3467D42FA5A0}|5_KieuDuLieu\\5_KieuDuLieu.csproj|c:\\users\\admin\\c#tet\\5_kieudulieu\\5_kieudulieu\\5_kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773E89DA-24A3-42D4-9A81-3467D42FA5A0}|5_KieuDuLieu\\5_KieuDuLieu.csproj|solutionrelative:5_kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 164,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\C#Tet\\5_KieuDuLieu\\5_KieuDuLieu\\5_KieuDuLieu\\Program.cs",
+              "RelativeDocumentMoniker": "5_KieuDuLieu\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\C#Tet\\5_KieuDuLieu\\5_KieuDuLieu\\5_KieuDuLieu\\Program.cs*",
+              "RelativeToolTip": "5_KieuDuLieu\\Program.cs*",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwGwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:20:38.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
