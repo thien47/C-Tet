@@ -1,0 +1,14 @@
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\obj\Debug\net8.0\10_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\obj\Debug\net8.0\10_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\obj\Debug\net8.0\10_SwitchCase.AssemblyInfo.cs
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\obj\Debug\net8.0\10_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\bin\Debug\net8.0\10_SwitchCase.exe
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\bin\Debug\net8.0\10_SwitchCase.deps.json
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\bin\Debug\net8.0\10_SwitchCase.runtimeconfig.json
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\bin\Debug\net8.0\10_SwitchCase.dll
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\bin\Debug\net8.0\10_SwitchCase.pdb
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\obj\Debug\net8.0\10_SwitchCase.dll
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\obj\Debug\net8.0\refint\10_SwitchCase.dll
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\obj\Debug\net8.0\10_SwitchCase.pdb
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\obj\Debug\net8.0\10_SwitchCase.genruntimeconfig.cache
+C:\Users\admin\C#Tet1\10_SwitchCase\10_SwitchCase\10_SwitchCase\obj\Debug\net8.0\ref\10_SwitchCase.dll
