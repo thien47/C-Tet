@@ -1,0 +1,15 @@
+C:\Users\admin\C#Tet\14_Goto\14_Goto\bin\Debug\net8.0\14_Goto.exe
+C:\Users\admin\C#Tet\14_Goto\14_Goto\bin\Debug\net8.0\14_Goto.deps.json
+C:\Users\admin\C#Tet\14_Goto\14_Goto\bin\Debug\net8.0\14_Goto.runtimeconfig.json
+C:\Users\admin\C#Tet\14_Goto\14_Goto\bin\Debug\net8.0\14_Goto.dll
+C:\Users\admin\C#Tet\14_Goto\14_Goto\bin\Debug\net8.0\14_Goto.pdb
+C:\Users\admin\C#Tet\14_Goto\14_Goto\obj\Debug\net8.0\14_Goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\C#Tet\14_Goto\14_Goto\obj\Debug\net8.0\14_Goto.AssemblyInfoInputs.cache
+C:\Users\admin\C#Tet\14_Goto\14_Goto\obj\Debug\net8.0\14_Goto.AssemblyInfo.cs
+C:\Users\admin\C#Tet\14_Goto\14_Goto\obj\Debug\net8.0\14_Goto.csproj.CoreCompileInputs.cache
+C:\Users\admin\C#Tet\14_Goto\14_Goto\obj\Debug\net8.0\14_Goto.sourcelink.json
+C:\Users\admin\C#Tet\14_Goto\14_Goto\obj\Debug\net8.0\14_Goto.dll
+C:\Users\admin\C#Tet\14_Goto\14_Goto\obj\Debug\net8.0\refint\14_Goto.dll
+C:\Users\admin\C#Tet\14_Goto\14_Goto\obj\Debug\net8.0\14_Goto.pdb
+C:\Users\admin\C#Tet\14_Goto\14_Goto\obj\Debug\net8.0\14_Goto.genruntimeconfig.cache
+C:\Users\admin\C#Tet\14_Goto\14_Goto\obj\Debug\net8.0\ref\14_Goto.dll
