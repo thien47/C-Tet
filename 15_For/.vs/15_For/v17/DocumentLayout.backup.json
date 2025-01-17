@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\C#Tet\\15_For\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86C4138-4430-43FB-A918-2BC4FEE75174}|15_For\\15_For.csproj|c:\\users\\admin\\c#tet\\15_for\\15_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86C4138-4430-43FB-A918-2BC4FEE75174}|15_For\\15_For.csproj|solutionrelative:15_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\C#Tet\\15_For\\15_For\\Program.cs",
+              "RelativeDocumentMoniker": "15_For\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\C#Tet\\15_For\\15_For\\Program.cs",
+              "RelativeToolTip": "15_For\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:39:57.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\admin\C#Tet\15_For\15_For\bin\Debug\net8.0\15_For.exe
+C:\Users\admin\C#Tet\15_For\15_For\bin\Debug\net8.0\15_For.deps.json
+C:\Users\admin\C#Tet\15_For\15_For\bin\Debug\net8.0\15_For.runtimeconfig.json
+C:\Users\admin\C#Tet\15_For\15_For\bin\Debug\net8.0\15_For.dll
+C:\Users\admin\C#Tet\15_For\15_For\bin\Debug\net8.0\15_For.pdb
+C:\Users\admin\C#Tet\15_For\15_For\obj\Debug\net8.0\15_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\C#Tet\15_For\15_For\obj\Debug\net8.0\15_For.AssemblyInfoInputs.cache
+C:\Users\admin\C#Tet\15_For\15_For\obj\Debug\net8.0\15_For.AssemblyInfo.cs
+C:\Users\admin\C#Tet\15_For\15_For\obj\Debug\net8.0\15_For.csproj.CoreCompileInputs.cache
+C:\Users\admin\C#Tet\15_For\15_For\obj\Debug\net8.0\15_For.sourcelink.json
+C:\Users\admin\C#Tet\15_For\15_For\obj\Debug\net8.0\15_For.dll
+C:\Users\admin\C#Tet\15_For\15_For\obj\Debug\net8.0\refint\15_For.dll
+C:\Users\admin\C#Tet\15_For\15_For\obj\Debug\net8.0\15_For.pdb
+C:\Users\admin\C#Tet\15_For\15_For\obj\Debug\net8.0\15_For.genruntimeconfig.cache
+C:\Users\admin\C#Tet\15_For\15_For\obj\Debug\net8.0\ref\15_For.dll
