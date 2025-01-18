@@ -1,0 +1,15 @@
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\bin\Debug\net8.0\17_DoWhile.exe
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\bin\Debug\net8.0\17_DoWhile.deps.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\bin\Debug\net8.0\17_DoWhile.runtimeconfig.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\bin\Debug\net8.0\17_DoWhile.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\bin\Debug\net8.0\17_DoWhile.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\obj\Debug\net8.0\17_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\obj\Debug\net8.0\17_DoWhile.AssemblyInfoInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\obj\Debug\net8.0\17_DoWhile.AssemblyInfo.cs
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\obj\Debug\net8.0\17_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\obj\Debug\net8.0\17_DoWhile.sourcelink.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\obj\Debug\net8.0\17_DoWhile.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\obj\Debug\net8.0\refint\17_DoWhile.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\obj\Debug\net8.0\17_DoWhile.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\obj\Debug\net8.0\17_DoWhile.genruntimeconfig.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\17_DoWhile\obj\Debug\net8.0\ref\17_DoWhile.dll
