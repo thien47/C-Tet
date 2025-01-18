@@ -1,0 +1,15 @@
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\obj\Debug\net8.0\16_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\obj\Debug\net8.0\16_While.AssemblyInfoInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\obj\Debug\net8.0\16_While.AssemblyInfo.cs
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\obj\Debug\net8.0\16_While.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\obj\Debug\net8.0\16_While.sourcelink.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\bin\Debug\net8.0\16_While.exe
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\bin\Debug\net8.0\16_While.deps.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\bin\Debug\net8.0\16_While.runtimeconfig.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\bin\Debug\net8.0\16_While.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\bin\Debug\net8.0\16_While.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\obj\Debug\net8.0\16_While.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\obj\Debug\net8.0\refint\16_While.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\obj\Debug\net8.0\16_While.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\obj\Debug\net8.0\16_While.genruntimeconfig.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\16_While\obj\Debug\net8.0\ref\16_While.dll
