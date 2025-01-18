@@ -1,0 +1,15 @@
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\obj\Debug\net8.0\18_CauTrucHamCoBam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\obj\Debug\net8.0\18_CauTrucHamCoBam.AssemblyInfoInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\obj\Debug\net8.0\18_CauTrucHamCoBam.AssemblyInfo.cs
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\obj\Debug\net8.0\18_CauTrucHamCoBam.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\obj\Debug\net8.0\18_CauTrucHamCoBam.sourcelink.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\bin\Debug\net8.0\18_CauTrucHamCoBam.exe
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\bin\Debug\net8.0\18_CauTrucHamCoBam.deps.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\bin\Debug\net8.0\18_CauTrucHamCoBam.runtimeconfig.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\bin\Debug\net8.0\18_CauTrucHamCoBam.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\bin\Debug\net8.0\18_CauTrucHamCoBam.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\obj\Debug\net8.0\18_CauTrucHamCoBam.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\obj\Debug\net8.0\refint\18_CauTrucHamCoBam.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\obj\Debug\net8.0\18_CauTrucHamCoBam.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\obj\Debug\net8.0\18_CauTrucHamCoBam.genruntimeconfig.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\18_CauTrucHamCoBam\obj\Debug\net8.0\ref\18_CauTrucHamCoBam.dll

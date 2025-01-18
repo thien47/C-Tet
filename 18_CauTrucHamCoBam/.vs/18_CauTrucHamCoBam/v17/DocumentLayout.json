@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Long\\OneDrive\\M\u00E1y t\u00EDnh\\thien\\c#\\C#Tet\\18_CauTrucHamCoBam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE093915-1B25-4F53-A775-2A2E6F089C9B}|18_CauTrucHamCoBam.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\thien\\c#\\c#tet\\18_cautruchamcobam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE093915-1B25-4F53-A775-2A2E6F089C9B}|18_CauTrucHamCoBam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Long\\OneDrive\\M\u00E1y t\u00EDnh\\thien\\c#\\C#Tet\\18_CauTrucHamCoBam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Long\\OneDrive\\M\u00E1y t\u00EDnh\\thien\\c#\\C#Tet\\18_CauTrucHamCoBam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:51:47.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
