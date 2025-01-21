@@ -1,0 +1,15 @@
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\obj\Debug\net8.0\20_RefnOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\obj\Debug\net8.0\20_RefnOut.AssemblyInfoInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\obj\Debug\net8.0\20_RefnOut.AssemblyInfo.cs
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\obj\Debug\net8.0\20_RefnOut.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\obj\Debug\net8.0\20_RefnOut.sourcelink.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\bin\Debug\net8.0\20_RefnOut.exe
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\bin\Debug\net8.0\20_RefnOut.deps.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\bin\Debug\net8.0\20_RefnOut.runtimeconfig.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\bin\Debug\net8.0\20_RefnOut.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\bin\Debug\net8.0\20_RefnOut.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\obj\Debug\net8.0\20_RefnOut.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\obj\Debug\net8.0\refint\20_RefnOut.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\obj\Debug\net8.0\20_RefnOut.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\obj\Debug\net8.0\20_RefnOut.genruntimeconfig.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\20_RefnOut\obj\Debug\net8.0\ref\20_RefnOut.dll
