@@ -1,0 +1,15 @@
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\obj\Debug\net8.0\22_Mang2Chieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\obj\Debug\net8.0\22_Mang2Chieu.AssemblyInfoInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\obj\Debug\net8.0\22_Mang2Chieu.AssemblyInfo.cs
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\obj\Debug\net8.0\22_Mang2Chieu.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\obj\Debug\net8.0\22_Mang2Chieu.sourcelink.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\bin\Debug\net8.0\22_Mang2Chieu.exe
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\bin\Debug\net8.0\22_Mang2Chieu.deps.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\bin\Debug\net8.0\22_Mang2Chieu.runtimeconfig.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\bin\Debug\net8.0\22_Mang2Chieu.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\bin\Debug\net8.0\22_Mang2Chieu.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\obj\Debug\net8.0\22_Mang2Chieu.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\obj\Debug\net8.0\refint\22_Mang2Chieu.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\obj\Debug\net8.0\22_Mang2Chieu.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\obj\Debug\net8.0\22_Mang2Chieu.genruntimeconfig.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\22_Mang2Chieu\obj\Debug\net8.0\ref\22_Mang2Chieu.dll
