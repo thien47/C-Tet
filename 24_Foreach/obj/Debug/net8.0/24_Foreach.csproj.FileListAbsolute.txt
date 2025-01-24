@@ -1,0 +1,15 @@
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\obj\Debug\net8.0\24_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\obj\Debug\net8.0\24_Foreach.AssemblyInfoInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\obj\Debug\net8.0\24_Foreach.AssemblyInfo.cs
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\obj\Debug\net8.0\24_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\obj\Debug\net8.0\24_Foreach.sourcelink.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\bin\Debug\net8.0\24_Foreach.exe
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\bin\Debug\net8.0\24_Foreach.deps.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\bin\Debug\net8.0\24_Foreach.runtimeconfig.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\bin\Debug\net8.0\24_Foreach.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\bin\Debug\net8.0\24_Foreach.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\obj\Debug\net8.0\24_Foreach.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\obj\Debug\net8.0\refint\24_Foreach.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\obj\Debug\net8.0\24_Foreach.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\obj\Debug\net8.0\24_Foreach.genruntimeconfig.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\24_Foreach\obj\Debug\net8.0\ref\24_Foreach.dll
