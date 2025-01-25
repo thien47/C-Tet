@@ -1,0 +1,15 @@
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\obj\Debug\net8.0\27_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\obj\Debug\net8.0\27_Enum.AssemblyInfoInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\obj\Debug\net8.0\27_Enum.AssemblyInfo.cs
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\obj\Debug\net8.0\27_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\obj\Debug\net8.0\27_Enum.sourcelink.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\bin\Debug\net8.0\27_Enum.exe
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\bin\Debug\net8.0\27_Enum.deps.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\bin\Debug\net8.0\27_Enum.runtimeconfig.json
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\bin\Debug\net8.0\27_Enum.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\bin\Debug\net8.0\27_Enum.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\obj\Debug\net8.0\27_Enum.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\obj\Debug\net8.0\refint\27_Enum.dll
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\obj\Debug\net8.0\27_Enum.pdb
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\obj\Debug\net8.0\27_Enum.genruntimeconfig.cache
+C:\Users\Long\OneDrive\Máy tính\thien\c#\C#Tet\27_Enum\obj\Debug\net8.0\ref\27_Enum.dll
